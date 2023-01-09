@@ -1,5 +1,5 @@
 # THALASSOPHOBIA
-
+ ![Thalassophobia](/img/Thalassophobia.png)
 ### How To Play
 
 1. Download the Game
